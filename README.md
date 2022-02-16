@@ -18,5 +18,12 @@ You can check inside the /txt folder to see examples of the 3 levels of detail.
 - Run i2a.exe
 - Follow the instructions
   
-![](preview.png)
+![](img/preview.png)
 
+## Screenshots:
+
+### Image:
+![](img/img2.png)
+
+### Ascii:
+![](img/img2_ascii.png)
